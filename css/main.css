@@ -1,0 +1,15 @@
+.containers{
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color: gray;
+}
+
+.site-form{
+    width: 500px;
+    margin: 0 auto;
+}
